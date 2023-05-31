@@ -5,6 +5,7 @@ The latest outbreak of monkeypox has now become a source of concern for healthca
 ## If you use this dataset, please cite the following paper:
 
 @article{bala2023monkeynet,
+
   title={MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification},
   
   author={Bala, Diponkor and Hossain, Md Shamim and Hossain, Mohammad Alamgir and Abdullah, Md Ibrahim and Rahman, Md Mizanur and Manavalan, Balachandran and Gu, Naijie and Islam, Mohammad S and Huang, Zhangjin},
