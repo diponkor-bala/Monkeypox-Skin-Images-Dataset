@@ -6,10 +6,17 @@ The latest outbreak of monkeypox has now become a source of concern for healthca
 
 @article{bala2023monkeynet,
   title={MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification},
+  
   author={Bala, Diponkor and Hossain, Md Shamim and Hossain, Mohammad Alamgir and Abdullah, Md Ibrahim and Rahman, Md Mizanur and Manavalan, Balachandran and Gu, Naijie and Islam, Mohammad S and Huang, Zhangjin},
+  
   journal={Neural Networks},
+  
   volume={161},
+  
   pages={757--775},
+  
   year={2023},
+  
   publisher={Elsevier}
+  
 }
